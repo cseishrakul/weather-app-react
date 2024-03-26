@@ -1,0 +1,9 @@
+.data-container{
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.icon{
+    width: 20px;
+}
